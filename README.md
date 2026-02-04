@@ -13,11 +13,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-- 🎓 **B.Tech in Mechanical Engineering | Data Enthusiast**  
-- 💼 Currently working as a **Data Analyst at Rishabh Plast India Pvt. Ltd.**
-- 📊 Working on the projects involving **Python, MySQL, SQL Server, Power BI, Tableau, and Advanced Excel**
-- 📈 Skilled in **data cleaning, EDA, SQL querying, KPI creation & interactive dashboards** across finance, operations & sales domains.
-- 🧠 I focus on understanding the **business context behind data**, ensuring that analytical solutions are not just visually appealing but also actionable and aligned with organizational goals.
+- 🎓 **Bachelor in Computer Applications| DevOps Enthusiast**  
+- 💼 Currently Pursuing **MCA** **Aditya institue, Borivali, Mumbai**
+- 📊 Working on the projects involving **Python, AI/ML Scikit Learning**
+- 📈 Skilled in 
+- 🧠 I focus on understanding the **business context behind data**
 
 ---
 
