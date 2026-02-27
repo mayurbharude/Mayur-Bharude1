@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7B93E&width=800&lines=Hey+there!+I'm+Goutam+Kuiri+%F0%9F%91%8B;Data+Analyst+%7C+Turning+Data+into+Actionable+Insights+%F0%9F%92%BC;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%F0%9F%93%8A;Let's+Decode+Data+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7B93E&width=800&lines=Hey+there!+I'm+Mayur+Bharude+%F0%9F%91%8B;Devops+Enthusiast+%F0%9F%92%BC;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%F0%9F%93%8A;Let's+Deploy+Website+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Profile View Counter -->
@@ -66,7 +66,7 @@
 
 <h2>📊 My Projects - Key Statistics</h2>
 
-- 📊 **Total Projects Completed:** 15+
+- 📊 **Total Projects Completed:** 5+
 - 🚀 **Data-Driven Insights Generated:** 1000+ hours of analysis
 - 💼 **Industries Analyzed:** 5 (Airline, EV, Retail, Manufacturing, Healthcare)
 - 📈 **Average Impact:** Increased operational efficiency by **25%** across projects
